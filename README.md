@@ -112,7 +112,7 @@ A complete Photo Gallery Android app that allows users to **take photos using ca
 - Delete image with confirmation dialog
 - Returns to gallery after delete
 
-### 📸 Screenshots
+### Screenshots
 | Home | Camera | Gallery Grid | Image Details | Delete Dialog |
 |------|--------|--------------|---------------|---------------|
 | ![Home](screenshots/q4_home.png) | ![Camera](screenshots/q4_camera.png) | ![Grid](screenshots/q4_grid.png) | ![Detail](screenshots/q4_detail.png) | ![Delete](screenshots/q4_delete.png) |
@@ -159,7 +159,7 @@ git clone https://github.com/Sanjana2622/MobileDevAssignment.git
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Name:** Sanjana  
 **GitHub:** [Sanjana2622](https://github.com/Sanjana2622)
