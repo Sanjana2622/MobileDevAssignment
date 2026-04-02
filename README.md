@@ -22,7 +22,7 @@ MobileDevAssignment/
 
 ## Q1 - Currency Converter App
 
-### 📌 Description
+### Description
 A simple Currency Converter Android application that converts between **INR, USD, JPY and EUR** currencies. Also includes a **Settings page** to toggle between **Light and Dark theme**.
 
 ### Features
@@ -88,7 +88,7 @@ An Android app that reads and displays **live sensor data** from the device's bu
 ### Screenshots
 | Sensor Screen |
 |---------------|
-| ![Home](screenshots/q3_home.png) | 
+| ![Home](screenshots/q3_home.jpeg) | 
 
 ### Tech Used
 - Java
