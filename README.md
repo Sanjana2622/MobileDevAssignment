@@ -3,7 +3,7 @@
 
 > **Course:** Mobile Application Development  
 > **Section:** CSE8  
-> **Name:** Sanjana Singh
+> **Name:** Sanjana
 > **Language:** Java  
 > **IDE:** Android Studio  
 
