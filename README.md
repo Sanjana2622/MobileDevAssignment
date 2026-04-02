@@ -58,9 +58,9 @@ An Android Media Player app that can **play audio files from device storage** an
 - Status display
 
 ### Screenshots
-| Home Screen |Video Streaming |
-|-------------|---------------|
-| ![Home](screenshots/q2_home.jpeg) | ![Video](screenshots/q2_video.jpeg) |
+| Home Screen | Audio Playing | Video Streaming |
+|-------------|---------------|-----------------|
+| ![Home](screenshots/q2_home.jpeg) | ![Audio](screenshots/q2_audio.jpeg) |  ![Video](screenshots/q2_video.jpeg) |
 
 ### Tech Used
 - Java
