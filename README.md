@@ -3,10 +3,9 @@
 
 > **Course:** Mobile Application Development  
 > **Section:** CSE8  
-> **Name:** Sanjana
-> **Language:** Java 
-> **IDE:** Android Studio  
-
+> **Name:** Sanjana  
+> **Language:** Java  
+> **IDE:** Android Studio 
 ---
 
 ## Repository Structure
