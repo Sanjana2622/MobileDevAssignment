@@ -115,7 +115,7 @@ A complete Photo Gallery Android app that allows users to **take photos using ca
 ### Screenshots
 | Home | Camera | Gallery Grid | Image Details | Delete Dialog |
 |------|--------|--------------|---------------|---------------|
-| ![Home](screenshots/q4_home.png) | ![Camera](screenshots/q4_camera.png) | ![Grid](screenshots/q4_grid.png) | ![Detail](screenshots/q4_detail.png) | ![Delete](screenshots/q4_delete.png) |
+| ![Home](screenshots/q4_home.jpeg) | ![Camera](screenshots/q4_camera.jpeg) | ![Grid](screenshots/q4_grid.jpeg) | ![Detail](screenshots/q4_detail.jpeg) | ![Delete](screenshots/q4_delete.jpeg) |
 
 ### Tech Used
 - Java
@@ -163,8 +163,6 @@ git clone https://github.com/Sanjana2622/MobileDevAssignment.git
 
 **Name:** Sanjana  
 **GitHub:** [Sanjana2622](https://github.com/Sanjana2622)
-```
 
----
 
 
